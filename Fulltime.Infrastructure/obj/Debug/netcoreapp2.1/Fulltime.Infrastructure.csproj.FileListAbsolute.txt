@@ -1,0 +1,4 @@
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Infrastructure\obj\Debug\netcoreapp2.1\Fulltime.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Infrastructure\obj\Debug\netcoreapp2.1\Fulltime.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Infrastructure\obj\Debug\netcoreapp2.1\Fulltime.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Infrastructure\obj\Debug\netcoreapp2.1\Fulltime.Infrastructure.AssemblyInfo.cs

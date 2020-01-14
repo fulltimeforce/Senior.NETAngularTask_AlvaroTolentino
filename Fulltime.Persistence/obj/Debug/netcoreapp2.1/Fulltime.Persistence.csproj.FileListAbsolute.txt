@@ -1,0 +1,6 @@
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Persistence\bin\Debug\netcoreapp2.1\Fulltime.Application.dll
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Persistence\bin\Debug\netcoreapp2.1\Fulltime.Domain.dll
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Persistence\obj\Debug\netcoreapp2.1\Fulltime.Persistence.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Persistence\obj\Debug\netcoreapp2.1\Fulltime.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Persistence\obj\Debug\netcoreapp2.1\Fulltime.Persistence.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Persistence\obj\Debug\netcoreapp2.1\Fulltime.Persistence.AssemblyInfo.cs

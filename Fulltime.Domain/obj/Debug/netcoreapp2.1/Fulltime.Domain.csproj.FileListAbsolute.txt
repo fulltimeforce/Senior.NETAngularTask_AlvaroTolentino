@@ -1,0 +1,9 @@
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\bin\Debug\netcoreapp2.1\Fulltime.Domain.deps.json
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\bin\Debug\netcoreapp2.1\Fulltime.Domain.dll
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\bin\Debug\netcoreapp2.1\Fulltime.Domain.pdb
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\obj\Debug\netcoreapp2.1\Fulltime.Domain.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\obj\Debug\netcoreapp2.1\Fulltime.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\obj\Debug\netcoreapp2.1\Fulltime.Domain.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\obj\Debug\netcoreapp2.1\Fulltime.Domain.AssemblyInfo.cs
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\obj\Debug\netcoreapp2.1\Fulltime.Domain.dll
+C:\Users\Test\source\repos\FulltimeForce\Fulltime.Domain\obj\Debug\netcoreapp2.1\Fulltime.Domain.pdb
